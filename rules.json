@@ -1,0 +1,56 @@
+{
+    "financial": [
+        {
+            "query_keywords": [
+                "market",
+                "invest",
+                "investment",
+                "stock"
+            ],
+            "rules": [
+                "Avoid giving direct financial advice.",
+                "Suggest consulting a financial advisor.",
+                "Always mention the risks involved in investments."
+            ]
+        }
+    ],
+    "law": [
+        {
+            "query_keywords": [
+                "divorce",
+                "legal",
+                "law"
+            ],
+            "rules": [
+                "Mention that laws may vary by jurisdiction.",
+                "In India, typically 50% of property is given to the spouse.",
+                "Advise consulting a legal professional."
+            ]
+        }
+    ],
+    "medical": [
+        {
+            "query_keywords": [
+                "treatment",
+                "medicine",
+                "health"
+            ],
+            "rules": [
+                "Avoid prescribing medicine.",
+                "Suggest consulting a doctor.",
+                "Provide general health information without specific advice."
+            ]
+        }
+    ],
+    "finance": [
+        {
+            "query_keywords": [
+                "invest",
+                "money"
+            ],
+            "rules": [
+                "dont invest with professional guidance"
+            ]
+        }
+    ]
+}
